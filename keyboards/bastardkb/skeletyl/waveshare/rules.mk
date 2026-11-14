@@ -1,0 +1,2 @@
+SERIAL_DRIVER = vendor
+AUDIO_SUPPORTED = no
